@@ -1,0 +1,13 @@
+ProvisioningTool Funtionality
+
+1) Copy tje Folder from  \\10.250.64.17\eng\No-Backup\VPM-Builds\VPM_9.0.Patch_AT&T
+ 
+2)Install Microsoft .net framework 4.0 on client PC.
+
+3)Go to ProvisioningTool installation path using command prompt.
+
+4)Copy xml file to any folder and edit it as required.
+
+5)USe below command to perform operation.
+
+6)Command: ProvisioninTool.exe ServerIP Username Password Domain XMLFilepath 
